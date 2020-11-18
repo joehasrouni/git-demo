@@ -1,1 +1,1 @@
-Hello world
+My First Git example
